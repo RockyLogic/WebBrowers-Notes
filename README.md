@@ -1,4 +1,4 @@
-#📝 Web Browser Notes
+# 📝 Web Browser Notes
 
 ## About:
 Webpage allowing users to takes notes, or create a To-Do list, created using HTML, CSS, and jQuery. Learning Project.
